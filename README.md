@@ -43,7 +43,7 @@ Tienda con catálogo, carrito y ticket en PDF, más panel de administración de 
 **Backend:** Node.js · NestJS · Express · APIs REST  
 **Bases de datos:** PostgreSQL · Supabase · MongoDB · Prisma  
 **Herramientas:** Git · GitHub · Vercel · Render · VS Code  
-**IA:** ChatGPT · Gemini · GitHub Copilot · Cursor
+**IA:** ChatGPT · Gemini · GitHub Copilot · Cursor · Claude
 
 ## 🌱 Ahora mismo
 
